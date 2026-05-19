@@ -1,0 +1,32 @@
+================================================================================
+Gaussian
+
+NRMSE: positive means OMP_LearnedUnion is better
+Mean gain: 0.009568
+Median gain: 0.000014
+Improved trials: 102 / 200
+Paired t-test: TtestResult(statistic=3.9912727219473516, pvalue=9.237256025116987e-05, df=199)
+Wilcoxon: WilcoxonResult(statistic=7535.5, pvalue=0.002994712478980925)
+
+F1: positive means OMP_LearnedUnion is better
+Mean gain: 0.008909
+Median gain: 0.000000
+Improved trials: 71 / 200
+Paired t-test: TtestResult(statistic=6.36355815930188, pvalue=1.3297853544011e-09, df=199)
+Wilcoxon: WilcoxonResult(statistic=536.5, pvalue=9.36857611435635e-10)
+================================================================================
+Coherent
+
+NRMSE: positive means OMP_LearnedUnion is better
+Mean gain: 0.010172
+Median gain: 0.000163
+Improved trials: 106 / 200
+Paired t-test: TtestResult(statistic=5.721539900636478, pvalue=3.8344484292751055e-08, df=199)
+Wilcoxon: WilcoxonResult(statistic=6757.0, pvalue=5.868911423526743e-05)
+
+F1: positive means OMP_LearnedUnion is better
+Mean gain: 0.010636
+Median gain: 0.000000
+Improved trials: 77 / 200
+Paired t-test: TtestResult(statistic=6.823287011852705, pvalue=1.0469815459992162e-10, df=199)
+Wilcoxon: WilcoxonResult(statistic=658.0, pvalue=3.736944626512211e-10)
